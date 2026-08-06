@@ -1,9 +1,9 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
 #include <QQmlContext>
-#include "src/model/WaveformModel.h"
-#include "src/controller/SimController.h"
-#include "src/model/WaveformImageProvider.h"
+#include "src/model/Wm.h"
+#include "src/controller/Sc.h"
+#include "src/model/Wp.h"
 
 int main(int argc, char *argv[]) {
     QGuiApplication app(argc, argv);

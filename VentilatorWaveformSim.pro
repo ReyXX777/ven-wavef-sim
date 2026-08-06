@@ -9,14 +9,14 @@ INCLUDEPATH += $$PWD/src/model $$PWD/src/controller
 
 SOURCES += \
     main.cpp \
-    src/model/WaveformModel.cpp \
-    src/model/WaveformImageProvider.cpp \
-    src/controller/SimController.cpp
+    src/model/Wm.cpp \
+    src/model/Wp.cpp \
+    src/controller/Sc.cpp
 
 HEADERS += \
-    src/model/WaveformModel.h \
-    src/model/WaveformImageProvider.h \
-    src/controller/SimController.h
+    src/model/Wm.h \
+    src/model/Wp.h \
+    src/controller/Sc.h
 
 RESOURCES += resources.qrc
 

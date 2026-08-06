@@ -1,7 +1,7 @@
 <RCC>
     <qresource prefix="/">
         <file>qml/main.qml</file>
-        <file>qml/WaveformPanel.qml</file>
+        <file>qml/wfp.qml</file>
         <file>assets/icons/battery.svg</file>
         <file>assets/icons/wifi.svg</file>
     </qresource>

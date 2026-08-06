@@ -1,8 +1,8 @@
-#ifndef WAVEFORMIMAGEPROVIDER_H
-#define WAVEFORMIMAGEPROVIDER_H
+#ifndef Wp_H
+#define Wp_H
 
 #include <QQuickImageProvider>
-#include "WaveformModel.h"
+#include "Wm.h"
 
 class WaveformImageProvider : public QQuickImageProvider {
 public:

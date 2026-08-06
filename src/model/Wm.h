@@ -1,5 +1,5 @@
-#ifndef WAVEFORMMODEL_H
-#define WAVEFORMMODEL_H
+#ifndef WM_H
+#define WM_H
 
 #include <QObject>
 #include <QImage>

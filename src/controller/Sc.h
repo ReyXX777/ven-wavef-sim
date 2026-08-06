@@ -1,5 +1,5 @@
-#ifndef SIMCONTROLLER_H
-#define SIMCONTROLLER_H
+#ifndef SC_H
+#define SC_H
 
 #include <QObject>
 #include <QTimer>
