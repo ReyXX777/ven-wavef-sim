@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+  <!-- Origin dot at bottom center -->
+  <circle cx="12" cy="20" r="1.25" fill="white"/>
+  <!-- Arc 1 - r=3 -->
+  <path d="M 9.88 17.88 A 3 3 0 0 1 14.12 17.88" fill="none" stroke="white" stroke-width="2" stroke-linecap="round"/>
+  <!-- Arc 2 - r=5.5 -->
+  <path d="M 8.11 16.11 A 5.5 0 0 1 15.89 16.11" fill="none" stroke="white" stroke-width="2" stroke-linecap="round"/>
+  <!-- Arc 3 - r=8 -->
+  <path d="M 6.34 14.34 A 8 8 0 0 1 17.66 14.34" fill="none" stroke="white" stroke-width="2" stroke-linecap="round"/>
+  <!-- Arc 4 - r=10.5 -->
+  <path d="M 4.58 12.58 A 10.5 0 0 1 19.42 12.58" fill="none" stroke="white" stroke-width="2" stroke-linecap="round"/>
+</svg>
